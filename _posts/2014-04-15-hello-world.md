@@ -2,11 +2,9 @@
 layout: post
 title: "Hello World"
 description: "first post"
-category: tech
+category: snippet
 tags: [test]
 ---
 {% include JB/setup %}
-
-
 
 Test with jekyll-bootstrap!
