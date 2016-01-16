@@ -8,9 +8,7 @@ title: Welcome!
 
 Nice to meet you. 
 
-I'm Chengcheng（程程 in Chinese), a 21-year-old Chinese girl currently a junior student majoring in Computer Science in [Fudan University](http://www.fudan.edu.cn). I grew up in Qingdao.
-
-My interests lie in three things **computer science**, **music** and **broad reading**. I put some knowledge notes, blogs and snippets here.
+I'm Chengcheng, a software engineer. I grew up in Qingdao and now live in Shanghai. I like **coding** and  **reading**. I put some knowledge notes, blogs and snippets here.
 
 <div class="blog-index">  
   {% assign post = site.posts.first %}
