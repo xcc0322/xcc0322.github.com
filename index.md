@@ -4,11 +4,16 @@ title: Welcome!
 ---
 {% include JB/setup %}
 
-![photo](http://hdn.xnimg.cn/photos/hdn521/20130714/1525/large_qutA_ec0300055ffa113e.jpg){: style="float:right;padding:30px;" width="125"}
+![photo]({{ root_url }}assets/img/index_photo.jpg){: style="float:right;padding:30px;" width="125"}
 
-Nice to meet you. 
+This is Chengcheng.
 
-I'm Chengcheng, a software engineer. I grew up in Qingdao and now live in Shanghai. I like **coding** and  **reading**. I put some knowledge notes, blogs and snippets here.
+I grew up in Qingdao, China and lived in Shanghai for 5 years.
+Today, I am a software engineer in the San Francisco Bay Area.
+
+I like coding, reading and spending time with my dog.
+
+I put life blogs and learning snippets here.
 
 <div class="blog-index">  
   {% assign post = site.posts.first %}
@@ -19,4 +24,3 @@ I'm Chengcheng, a software engineer. I grew up in Qingdao and now live in Shangh
         </div>
         {% endif %}
 </div>
-
